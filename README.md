@@ -69,7 +69,7 @@ Make sure you’re connected to the `plp_bookstore` database.
 
 ## 👨‍💻 Author
 
-- **Duke Mochama** – [GitHub Profile](https://github.com/yourusername)
+- **Duke Mochama** – [GitHub Profile](https://github.com/DukeMochama2022)
 
 ---
 
